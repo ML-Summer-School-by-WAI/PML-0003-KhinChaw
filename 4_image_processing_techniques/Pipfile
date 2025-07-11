@@ -4,9 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-opencv-python = "*"
 python-dotenv = "*"
+jupyter = "*"
 matplotlib = "*"
+numpy = "*"
+opencv-python = "*"
+labelme = "*"
 
 [dev-packages]
 
